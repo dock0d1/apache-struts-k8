@@ -8,7 +8,7 @@
  </a>
  <a href="https://github.com/dock0d1">
       <img alt="Tests Passing" src="https://badgen.net/badge/icon/windows?icon=windows&label" />
- 
+ </a>
  <a href="https://twitter.com/dock0d1">
       <img alt="Tests Passing" src="https://badgen.net/twitter/follow/dock0d1" />
  </a>
@@ -17,5 +17,5 @@
       <img alt="Tests Passing" src="https://badgen.net/snyk/babel/babel/6.x" />
       <img alt="Tests Passing" src="https://badgen.net/deepscan/issues/team/8527/project/10741/branch/152550" />
       <img alt="Tests Passing" src="https://badgen.net/deepscan/lines/team/8527/project/10741/branch/152550 />
-      <img alt="Tests Passing" src="https://badgen.net/npm/license/lodash" />
+      <img alt="Tests Passing" src="https://badgen.net/scoop/license/caddy" />
     </a>
