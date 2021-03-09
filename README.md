@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://miro.medium.com/max/728/1*MA2nvPHPmR2_NMbb9Rc9UA.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Apache Struts K8</h2>
+ <h2 align="center">Apache Struts2 K8</h2>
  <p align="center">Programa Utilizado Para Exploração da Falha Apache Struts2.</p>
 </p>
 <a href="https://github.com/dock0d1">
