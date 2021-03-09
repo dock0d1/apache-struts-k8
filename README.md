@@ -16,7 +16,7 @@
       <img alt="Tests Passing" src="https://badgen.net/uptime-robot/status/m780862024-50db2c44c703e5c68d6b1ebb" />
       <img alt="Tests Passing" src="https://badgen.net/snyk/babel/babel/6.x" />
       <img alt="Tests Passing" src="https://badgen.net/deepscan/issues/team/8527/project/10741/branch/152550" />
-      <img alt="Tests Passing" src="https://badgen.net/deepscan/lines/team/8527/project/10741/branch/152550 />
+      <img alt="Tests Passing" src="https://badgen.net/deepscan/lines/team/8527/project/10741/branch/152550" />
     </a>
 <a href="https://github.com/dock0d1">
 <img alt="Tests Passing" src="https://badgen.net/shards/license/clear" />
