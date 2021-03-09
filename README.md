@@ -17,5 +17,7 @@
       <img alt="Tests Passing" src="https://badgen.net/snyk/babel/babel/6.x" />
       <img alt="Tests Passing" src="https://badgen.net/deepscan/issues/team/8527/project/10741/branch/152550" />
       <img alt="Tests Passing" src="https://badgen.net/deepscan/lines/team/8527/project/10741/branch/152550 />
-      <img alt="Tests Passing" src="https://badgen.net/scoop/license/caddy" />
     </a>
+<a href="https://github.com/dock0d1">
+<img alt="Tests Passing" src="https://badgen.net/deepscan/lines/team/8527/project/10741/branch/152550 />
+</a>
