@@ -19,5 +19,4 @@
       <img alt="Tests Passing" src="https://badgen.net/deepscan/lines/team/8527/project/10741/branch/152550" />
     </a>
 <a href="#">
-<img alt="Tests Passing" src="https://badgen.net/shards/license/clear" />
 </a>
