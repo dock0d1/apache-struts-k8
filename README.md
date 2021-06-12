@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://miro.medium.com/max/728/1*MA2nvPHPmR2_NMbb9Rc9UA.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Apache Struts2 K8</h2>
- <p align="center">Programa Utilizado Para Exploração da Falha Apache Struts2.</p>
+ <p align="center">Programa Utilizado Para Exploração da Falha Apache Struts2</p>
 </p>
 <a href="https://github.com/dock0d1">
       <img alt="Tests Passing" src="https://badgen.net/codacy/grade/f0875490cea1497a9eca9c25f3f7774e" />
